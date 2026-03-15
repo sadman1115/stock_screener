@@ -85,8 +85,8 @@ Streamlit 웹 앱으로 구성되어 있으며, 8개 페이지에서 데이터 �
 #### Step 1: 저장소 클론
 
 ```bash
-git clone https://github.com/사용자명/저장소명.git
-cd 저장소명
+git clone https://github.com/sadman1115/stock_screener.git
+cd stock_screener
 ```
 
 #### Step 2: 가상환경 생성
