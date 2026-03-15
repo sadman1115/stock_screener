@@ -1,0 +1,14 @@
+[server]
+# WebSocket 압축 비활성화 (장시간 연결 안정화)
+enableWebsocketCompression = false
+# 최대 메시지 크기 (MB)
+maxMessageSize = 500
+# headless 모드
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[runner]
+# 파일 변경 시 자동 재실행 비활성화 (백테스트 중 재실행 방지)
+fastReroute = false
